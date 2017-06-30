@@ -1,0 +1,57 @@
+body{
+	position: relative;
+	height: ;
+	width: 100%;
+	background-color: #3b5998;
+}
+#chatlogs{
+	background-color:#fff;
+	height: 530px;
+	margin-top: 20px;
+	top:20px;
+	width:30%;
+	position:fixed;
+	left:60%;
+	padding-left: 20px;
+	padding-top: 10px;
+	border:2px solid black;
+	border-radius: 7px;
+}
+
+#forms{
+	margin-left: -250px;
+	margin-right: 300px;
+	margin-top: 150px;
+}
+
+#uname{
+	color: #fff;
+	font-size:22px;
+}
+
+#username ,#msg{
+	padding-left: 10px;
+	background-color: #c1c1c1;
+	border-radius: 3px;
+	width: 25%
+}
+
+a, a:hover , a:active , a:enabled{
+	text-decoration: none;
+}
+
+.logo{
+	height: 150px;
+	width:50%;
+	margin-top: 70px;
+	margin-left: 50px;
+}
+
+h6,.weblink,.weblink:visited{
+	color: #fff;
+}
+
+.weblink:hover,.weblink:active{
+	color:orange;
+	transition-duration: 1s;
+}
