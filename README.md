@@ -1,14 +1,10 @@
 # chat-application
 <br>
 <br>
-There will be a notification regarding loading of a script through Http request
+Download xampp or wamp server , then clone the repository and use it!!
 <br>
 <br>
-<img src="Screenshot (18)_LI.jpg"/>
-<br>
-<br>
-click on Load unsafe scripts, and use it!!!
-<br>
-<br>
-<img src="Screenshot (19)_LI.jpg"/>
-<br>
+<img src="Screenshot (24).png"/>
+<img src="Screenshot (25).png"/>
+<img src="Screenshot (25).png"/>
+
